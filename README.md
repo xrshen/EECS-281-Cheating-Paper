@@ -3,4 +3,3 @@
 > ### Under that case, the format should be good to go.
 > ### Since I have only uploaded these 2 files after the final, I have not considered that issue when I wrote the notes. Moveover, I don't want to modify them anymore since it will be meaningless work as I have already finished the final.
 > ### Besides, solution to solve this found online seems clumsy to me, so I giveup that thought
-> ### Just to show you how good the original files were, I have also uploaded 2 html files though they may not render so well compared with Typora.
