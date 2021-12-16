@@ -339,7 +339,6 @@ for (auto& item : dict) {
 >#      5  6
 >#        /
 >#       7 the time complexity with 1 operation with the time complexity of the total process
->Recursion has no terminating condition
 >```
 >### Post-order : [ 4 , 5 , 1 , 7 , 6 , 2 , 0 , 3 ]
 
