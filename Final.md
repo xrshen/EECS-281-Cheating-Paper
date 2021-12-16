@@ -258,33 +258,33 @@ for (auto& item : dict) {
 >
 > ### Pre-order:
 >
-> > ### Height $\le$ 0: [ <u>3</u> ]
+> > ### Depth $\le$ 0: [ <u>3</u> ]
 > >
-> >  ### Height $\le$ 1: [ 3 , <u>6</u> , <u>7</u> ]
+> > ### Depth $\le$ 1: [ 3 , <u>6</u> , <u>7</u> ]
 > >
-> > ### Height $\le$ 2: [ 3 , 6 , <u>1</u> , 7 , <u>5</u> , <u>4</u> ] node 
+> > ### Depth $\le$ 2: [ 3 , 6 , <u>1</u> , 7 , <u>5</u> , <u>4</u> ] node 
 > >
-> > ### Height $\le$ 3: [ 3, 6 , 1 , <u>2</u> , 7 , 5 , 4 , <u>8</u> ]
+> > ### Depth $\le$ 3: [ 3, 6 , 1 , <u>2</u> , 7 , 5 , 4 , <u>8</u> ]
 >
 > ### In-order:
 >
-> > ### Height $\le$ 0: [ <u>3</u> ]
+> > ### Depth $\le$ 0: [ <u>3</u> ]
 > >
-> >  ### Height $\le$ 1: [ <u>6</u> , 3 , <u>7</u> ]
+> > ### Depth $\le$ 1: [ <u>6</u> , 3 , <u>7</u> ]
 > >
-> > ### Height $\le$ 2: [ 6 , <u>1</u> , 3 , <u>5</u> , 7 , <u>4</u> ]
+> > ### Depth $\le$ 2: [ 6 , <u>1</u> , 3 , <u>5</u> , 7 , <u>4</u> ]
 > >
-> > ### Height $\le$ 3: [6, <u>2</u> , 1, 3, 5, 7, 4, <u>8</u> ]
+> > ### Depth $\le$ 3: [6, <u>2</u> , 1, 3, 5, 7, 4, <u>8</u> ]
 >
 > ### Post-order:
 >
-> > ### Height $\le$ 0: [ <u>3</u> ]
+> > ### Depth $\le$ 0: [ <u>3</u> ]
 > >
-> >  ### Height $\le$ 1: [ <u>6</u> , <u>7</u> , 3 ]
+> > ### Depth $\le$ 1: [ <u>6</u> , <u>7</u> , 3 ]
 > >
-> > ### Height $\le$ 2: [ <u>1</u> , 6 , <u>5</u> , <u>4</u> , 7 , 3 ]
+> > ### Depth $\le$ 2: [ <u>1</u> , 6 , <u>5</u> , <u>4</u> , 7 , 3 ]
 > >
-> > ### Height $\le$ 3: [ <u>2</u> , 1 , 6 , 5 , <u>8</u> , 4 , 7 , 3 ]
+> > ### Depth $\le$ 3: [ <u>2</u> , 1 , 6 , 5 , <u>8</u> , 4 , 7 , 3 ]
 
 ### Given pre-order and in-order traversals, reconstruct post-order traversal
 
